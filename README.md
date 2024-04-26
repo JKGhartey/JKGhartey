@@ -12,7 +12,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -30,7 +29,7 @@
 - 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
 
 
-![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true)
+<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true) -->
 
 <!--
 ### 📫🤝🏻 Connect with Me
