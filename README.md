@@ -31,8 +31,12 @@
 - Shoot Me an [Email](mailto:ghhartey@gmail.com) 💌
 
 
-![JKGhartey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JKGhartey&theme=darcula&hide_border=true)
-![JKGhartey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JKGhartey&theme=darcula&show_icons=true&hide_border=true&layout=compact)
+<a href="https://github.com/jkghartey/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JKGhartey&theme=default"  />
+</a>
+<a href="https://github.com/jkghartey/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkghartey&layout=compact&langs_count=8&card_width=420" />
+</a>
 
 
 
