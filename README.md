@@ -29,6 +29,9 @@
 
 - Connect with me on [LinkedIn](https://www.linkedin.com/in/gharteyjerome/) 👨🏻‍💻
 - Shoot Me an [Email](mailto:ghhartey@gmail.com) 💌
-- Check out my [GitHub Profile Summary](https://profile-summary-for-github.com/user/JKGhartey)
+
+
+![JKGhartey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JKGhartey&theme=darcula&hide_border=true)
+![JKGhartey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JKGhartey&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
