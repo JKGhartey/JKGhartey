@@ -1,43 +1,34 @@
 ### Hi there 👋
 
+**Welcome to my GitHub profile!** I'm Jerome Ghartey, and I'm passionate about software development and AI. Here's a bit more about me:
 
-**JKGhartey/jkghartey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on improving my software development skills and exploring AI applications.
+- 🌱 I’m currently learning about Blockchain and AI.
+- 👯 I’m looking to collaborate on projects that involve innovative technologies and problem-solving.
+- 🤔 I’m looking for help with understanding advanced AI algorithms and implementing them effectively.
+- 💬 Ask me about anything related to software development, AI, or technology trends!
+- 📫 How to reach me: You can connect with me on [LinkedIn](https://www.linkedin.com/in/gharteyjerome/) or shoot me an [email](mailto:gharteyjerome@gmail.com).
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I enjoy playing video games, watching anime, and reading horror novels in my free time!
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineering at Symbiosis Institute of Technology, Pune , India.
-- 🌱 &nbsp; Currently Learning Blockchain Technology.
-- Open for project collaboration and internship opportunities. 
+- 🤔 Exploring new technologies and their applications in software development and AI.
+- 🌱 Constantly learning and expanding my knowledge in Blockchain, AI, and other emerging technologies.
+- 💼 Open for project collaborations, internships, contracts, and full-time employment opportunities.
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Java | Javascript | Python | C++ | C# | R (Statistics)
-- 🌐 &nbsp; HTML | CSS | Bootstrap | Node.js | ReactJS
-- 🎮 &nbsp; Unity
-- 🛢 &nbsp; MySQL | MongoDB
-- 🔧 &nbsp; Git | Postman API | Adobe XD | Android Studio
+- 💻 JavaScript | Python | C++ 
+- 🌐 HTML | CSS | Bootstrap | Node.js | ReactJS | Next.js | WordPress
+- 🎨 Figma | Spline | Blender
+- 🛢 MySQL | PostgreSQL | MongoDB
+- 🔧 Git | Postman API | Adobe XD | Android Studio
 
-
-<!-- ![github stats](https://github-readme-stats.vercel.app/api?username=onlyArsh&show_icons=true) -->
-
-<!--
 ### 📫🤝🏻 Connect with Me
 
- - Connect with me on [LinkedIn](https://www.linkedin.com/in/arshradhanpura/) 👨🏻‍💻
- - Shoot Me an [Email](mailto:arshradhanpura288@gmail.com) 💌
- - [GitHub Profile Summary](https://profile-summary-for-github.com/user/onlyArsh)
-
--->
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/gharteyjerome/) 👨🏻‍💻
+- Shoot Me an [Email](mailto:ghhartey@gmail.com) 💌
+- Check out my [GitHub Profile Summary](https://profile-summary-for-github.com/user/JKGhartey)
 
 
