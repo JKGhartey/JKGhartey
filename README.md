@@ -32,7 +32,7 @@
 
 
 ![JKGhartey's Streak](https://github-readme-streak-stats.herokuapp.com/?user=JKGhartey&theme=darcula&hide_border=true)
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JKGhartey&theme=darcula&show_icons=true&hide_border=true&layout=compact" width="400" height="195">
+![JKGhartey's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JKGhartey&theme=darcula&show_icons=true&hide_border=true&layout=compact)
 
 
 
