@@ -31,9 +31,6 @@
 - Shoot Me an [Email](mailto:ghhartey@gmail.com) 💌
 
 
-<a href="https://github.com/jkghartey/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JKGhartey&theme=default"  />
-</a>
 <a href="https://github.com/jkghartey/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkghartey&layout=compact&langs_count=8&card_width=420" />
 </a>
